@@ -22,6 +22,7 @@ Dự án xây dựng website CRUD quản lý **Nhà cung cấp (Supplier)** và 
 - [dotenv](https://www.npmjs.com/package/dotenv)
 
 ## 📂 Cấu trúc thư mục
+```
 ├── app.js
 ├── controllers/
 │ ├── productController.js
@@ -41,7 +42,7 @@ Dự án xây dựng website CRUD quản lý **Nhà cung cấp (Supplier)** và 
 ├── .gitignore
 ├── package.json
 └── README.md
-
+```
 ## 🔑 Cấu hình môi trường
 Tạo file `.env`:
 ```env
